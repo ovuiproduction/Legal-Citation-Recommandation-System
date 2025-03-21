@@ -88,8 +88,8 @@ Ensure you have the following installed:
 ### Steps to Set Up
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/law-citation-assistant.git
-   cd 
+   git clone https://github.com/ovuiproduction/Legal-Citation-Recommandation-System
+   cd Legal-Citation-Recommandation-System
    ```
 2. Set up the backend:
    ```bash
