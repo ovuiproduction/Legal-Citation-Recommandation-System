@@ -1,5 +1,7 @@
 # LCRS - Legal Citation Recommendation System
 
+## [Demo](https://drive.google.com/file/d/1oZKLpYO4lHF2GeBMwa6-wzzUEB95e1Ej/view?usp=sharing)
+
 ## Project Description
 
 **Law Citation Assistant** is a system designed to streamline the legal research process by recommending relevant citations for a given case. By analyzing various case inputs—such as petitioners, respondents, case type, keywords, material facts, and relevant legal provisions—the system significantly reduces the time required for legal professionals to find pertinent citations. It enhances efficiency by enabling lawyers to quickly access applicable statutes, case laws, and judicial precedents.
